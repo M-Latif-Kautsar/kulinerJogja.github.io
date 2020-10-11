@@ -1,2 +1,2 @@
 # kulinerJogja.github.io
-Repo Pusat Kelompok
+Website artikel yang berisikan kuliner khas Yogyakarta

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header .parallax-container{
+    height: 90vh;    
+    width: 100%;
+    opacity: 0.9;
+}
+header .parallax-container .container{
+    top: 30%;
+    position: relative;
+    opacity: none;
+    opacity: 0.8;
+    filter: alpha(opacity=60);
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    padding-bottom: 50px;    
+}
+header .parallax-container .container h3, header .parallax-container .container p{
+    color: #000000;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+header .parallax-container .container p{
+    font-size: 18px;
+    
+}
+article .container p{
+    text-align: justify;
+    margin: 10px 0;
+}
+footer{
+    margin-top: 55px;
+}
